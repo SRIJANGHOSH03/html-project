@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services - Divine Hair Salon & Spa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Divine Hair Salon & Spa</h1>
+            <!-- Update the href attributes in the navigation links -->
+            <nav>
+                <ul>
+                    <li><a href="/proto.html">Home</a></li>
+                    <li><a href="/services.html">Services</a></li>
+                    <li><a href="/contact.html">Contact</a></li>
+                    <li><a href="/booknow.html">Book Now</a></li>
+                </ul>
+            </nav>
+
+        </div>
+    </header>
+
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <img src="images (2).jpeg" alt="Haircut & Styling">
+                <h3>Haircut & Styling</h3>
+                <p>Transform your look with our expert hairstylists. From trendy cuts to classic styles, we've got you covered.</p>
+            </div>
+            <div class="service-item">
+                <img src="images.jpeg" alt="Manicure & Pedicure">
+                <h3>Manicure & Pedicure</h3>
+                <p>Pamper your hands and feet with our luxurious manicure and pedicure treatments. Leave with perfectly groomed nails.</p>
+            </div>
+            <div class="service-item">
+                <img src="images (1).jpeg" alt="Facials & Skincare">
+                <h3>Facials & Skincare</h3>
+                <p>Revitalize your skin with our customized facials and skincare treatments. Achieve a radiant and youthful glow.</p>
+            </div>
+            <div class="service-item">
+                <img src="OIP.jpeg" alt="Massage">
+                <h3>Relaxing Massages</h3>
+                <p>Experience the ultimate relaxation with our skilled massage therapists.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Divine Hair Salon & Spa | All rights reserved</p>
+        </div>
+    </footer>
+</body>
+
+</html>
